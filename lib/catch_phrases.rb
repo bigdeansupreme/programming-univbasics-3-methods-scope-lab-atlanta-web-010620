@@ -12,3 +12,5 @@ def link
   talk = "It's Dangerous To Go Alone! Take This."
   puts talk
 end
+
+def any_phrase
